@@ -1,1 +1,4 @@
-
+os
+sqlalchemy
+sqlalchemy.pool
+flask
