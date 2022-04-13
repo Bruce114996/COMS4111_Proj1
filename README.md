@@ -23,7 +23,8 @@ We plan to design the online movie database and interaction system for all kinds
 Design: we design the web front-end considering the user's angle. Firstly,the first page is login page and they can both login and create a new account. Then for the main page, it contains user part and movie part. For the movie part, the user can check the movie profiles and actor profiles including information like movie's languages, genres, actor's name etc. Besides, they can makeg some comments, add movies into their likelist as well as follow other actors. For the user part, the users can also check both their likelist and other user's likelist. For users themselves, they can check both their actor list and like list, but for other users if they set the likelist to private the users cannot see which movie they like. 
   
 ![project1 part3 web process](https://user-images.githubusercontent.com/59796732/163073618-7927052f-bff8-442c-9393-2ab54daac889.jpg)
-
+(Upper Line means there has link on it.)
+  
 # View of the page:
   
 # Main page:
