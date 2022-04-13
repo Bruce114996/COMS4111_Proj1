@@ -24,12 +24,20 @@ Design: we design the web front-end considering the user's angle. Firstly,the fi
   
 ![project1 part3 web process](https://user-images.githubusercontent.com/59796732/163073618-7927052f-bff8-442c-9393-2ab54daac889.jpg)
 
- 
-#How to work 
+# View of the page:
+  
+# Main page:
+![Main page](https://user-images.githubusercontent.com/59796732/163076606-1dd04289-fff9-40d0-a272-670646aeaf0f.PNG)
+# Movie's Main Page:
+![Movie main page](https://user-images.githubusercontent.com/59796732/163076643-53bdbc2b-6097-47f3-becc-480e4e36fc2a.PNG)
+# User's Main Page:
+![User main page](https://user-images.githubusercontent.com/59796732/163076671-c032480d-aa8a-4e97-a703-08e5daf8834d.PNG)
+
+# How to work 
 
 ## Organisation of this directory 
 ```
-COMS4111_Proj1/
+COMS4111_Proj1/webserver/
 ├── static/
 ├── templates/
 ├── create_db.py
