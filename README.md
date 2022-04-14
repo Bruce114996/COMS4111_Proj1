@@ -20,10 +20,11 @@ We plan to design the online movie database and interaction system for all kinds
 6. Users can make their like_list to be either public or private and only the public one can be shared to other users.
 
 # Structure of the Web Database:
-Design: we design the web front-end considering the user's angle. Firstly,the first page is login page and they can both login and create a new account. Then for the main page, it contains user part and movie part. For the movie part, the user can check the movie profiles and actor profiles including information like movie's languages, genres, actor's name etc. Besides, they can makeg some comments, add movies into their likelist as well as follow other actors. For the user part, the users can also check both their likelist and other user's likelist. For users themselves, they can check both their actor list and like list, but for other users if they set the likelist to private the users cannot see which movie they like. 
-  
-![project1 part3 web process](https://user-images.githubusercontent.com/59796732/163073618-7927052f-bff8-442c-9393-2ab54daac889.jpg)
-(Upper Line means there has link on it.)
+Design: We design the web front-end considering the user's angle. Firstly,the first page is login page and they can both login and create a new account. Then for the main page, it contains user part and movie part. For the movie part, the user can check the movie profiles and actor profiles including information like movie's languages, genres, actor's name etc. Besides, they can makeg some comments, add movies into their likelist as well as follow other actors. For the user part, the users can also check both their likelist and other user's likelist and create the new likelist(public or private) for themselves. For users themselves, they can check both their actor list and like list, but for other users if they set the likelist to private other users cannot see which movie they like. 
+
+ ![project1 part3 web process](https://user-images.githubusercontent.com/59796732/163474953-4aa7bd31-06fb-46db-b918-6dbca08223f8.png)
+
+(Upper Line means there has link on it and red word with upper line means interaction operation for users.)
   
 # View of the page:
   
